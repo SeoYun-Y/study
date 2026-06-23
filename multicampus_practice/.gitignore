@@ -13,3 +13,4 @@ venv/
 *.safetensors
 *.pt
 *.bin
+*.pth
